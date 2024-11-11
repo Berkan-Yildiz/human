@@ -1,0 +1,2 @@
+class FingerContract:
+    pass
